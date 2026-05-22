@@ -29,3 +29,4 @@ Add your GitHub Pages link here
 Add screenshots here
 
 ## 👩‍💻 Developed By
+Tanish Mandliya
